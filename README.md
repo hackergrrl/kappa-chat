@@ -1,11 +1,3 @@
-What does kappa-chat do that kappa-core doesn't?
-
-- unites an instance around a common random identifier
-- swarm management + auto-sync
-- 
-
-
-
 # kappa-chat
 
 > p2p anarchist real-time communication protocol using append-only logs
