@@ -106,6 +106,7 @@ format
 
 ### var rs = db.createReadStream([opts])
 
+todo
 
 ## Message Type Ideas
 
@@ -121,9 +122,6 @@ example for an IRC-like textual chat message:
 }
 ```
 
-
-See [api_formatting.md](api_formatting.md) for tips.
-
 ## Install
 
 With [npm](https://npmjs.org/) installed, run
@@ -131,15 +129,6 @@ With [npm](https://npmjs.org/) installed, run
 ```
 $ npm install kappa-chat
 ```
-
-## Acknowledgments
-
-kappa-chat was inspired by..
-
-## See Also
-
-- [`noffle/common-readme`](https://github.com/noffle/common-readme)
-- ...
 
 ## License
 
