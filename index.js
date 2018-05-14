@@ -43,7 +43,7 @@ Chat.prototype.start = function () {
   var core = this._core
 
   var swarm = discovery(swarmDefaults({
-    id: this.key
+    id: this.key,
     stream: function (peer) {
       return core.replicate({live: true})
     }
